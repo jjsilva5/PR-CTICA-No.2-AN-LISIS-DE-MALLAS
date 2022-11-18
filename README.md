@@ -90,4 +90,5 @@ https://drive.google.com/file/d/1zz-gHxsNv7Ra5khq8PadG6IvN0M43PIt/view?usp=shari
 7. BIBLIOGRAFÍA
 
 Laboratorio de Física, I. I., & Skigin, D. Ley de Ohm y de Kirchhoff.
+
 Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
