@@ -15,11 +15,53 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+3.1 MATERIAL Y EQUIPO REQUERIDO
 
+![image](https://user-images.githubusercontent.com/117045943/202614903-3a993647-f7fe-4d6d-9d8c-1cbae8798568.png)
+
+3.2 Implemente el circuito que se presenta en la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/117045943/202615117-356760e3-6702-42bd-b0a7-9516145070f2.png)
+
+3.3 Mida cada una de las corrientes de malla y anote los resultados en la tabla 4.1
+
+Malla 1
+
+![image](https://user-images.githubusercontent.com/117045943/202615272-1ad728b6-198f-49a7-b150-43ae7cdefe4a.png)
+
+Malla 2
+
+![image](https://user-images.githubusercontent.com/117045943/202615293-d3643aec-6689-41da-bcb1-46692f54dfa8.png)
+
+Malla 3
+
+![image](https://user-images.githubusercontent.com/117045943/202615298-04407947-1a26-4602-bdf8-1ab58dd206be.png)
+
+
+3.4 Simule en el software en Tinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 4.1.
+
+Malla 1
+
+![image](https://user-images.githubusercontent.com/117045943/202615411-3985724d-7b22-4273-9fda-7e96c14004d2.png)
+
+Malla 2
+
+![image](https://user-images.githubusercontent.com/117045943/202615426-ec3b67eb-407b-4ffb-baaa-d4372d0402b2.png)
+
+Malla 3
+
+![image](https://user-images.githubusercontent.com/117045943/202615886-202f1161-b622-49d7-8729-358d8e45eee3.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Tabla 4.1. Resultados Obtenidos para el circuito de la figura 2.1.
 
+![image](https://user-images.githubusercontent.com/117045943/202617167-a9d28488-2000-43d6-8e52-129ed84de2be.png)
+
+
+4.2 Calculo De Error
+
+![image](https://user-images.githubusercontent.com/117045943/202617197-0946cd8d-a3dd-4555-af60-3300bbba98f7.png)
 
 5. VIDEO
 
