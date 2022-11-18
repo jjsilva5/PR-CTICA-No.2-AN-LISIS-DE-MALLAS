@@ -11,7 +11,20 @@
 
 2. MARCO TEÓRICO
 
+Kirchhoff fue un Físico alemán cuyas principales contribuciones fueron en los campos de los circuitos eléctricos de la cual podemos obtener las “Leyes de Kirchhoff” estas dos leyes se aplican a voltajes y corrientes.
+Leyes de voltaje de Kirchhoff esta ley nos define que la suma algebraica de los voltajes de una sola trayectoria cerrada es cero, también se lo puede expresar de manera que la suma de las caídas de voltaje, es decir, los voltajes de un lado a otro de los resistores; es igual al voltaje de la fuente total esto se lo puede expresar mediante la siguiente ecuación:
 
+![image](https://user-images.githubusercontent.com/117045943/202712053-d4604492-4ba2-472b-beb7-23197fdc9e18.png)
+
+Donde n representa el número de caídas de voltaje
+Leyes de corriente de Kirchhoff la suma de las intensidades que se dirigen hacia un nodo es igual a la suma de las corrientes que abandonan dicho nodo es decir la intensidad de entrada es igual a la intensidad de salida. Se la puede expresar en la siguiente ecuación:
+
+![image](https://user-images.githubusercontent.com/117045943/202712095-d2e23e19-f05a-4370-8301-8633d0569d8b.png)
+
+ANÁLISIS DE MALLAS
+El método de malla utiliza la LKV para determinar las corrientes en un circuito. Este método solo se puede utilizar en circuitos planos, es decir circuitos que se pueden dibujar en una hoja de papel y ningún conductor cruza a otro conductor. Se la puede representar mediante la siguiente gráfica 
+
+![image](https://user-images.githubusercontent.com/117045943/202712157-14496ae5-a5d1-4abd-84d9-26d19192669c.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -65,7 +78,7 @@ Tabla 4.1. Resultados Obtenidos para el circuito de la figura 2.1.
 
 5. VIDEO
 
-
+https://drive.google.com/file/d/1zz-gHxsNv7Ra5khq8PadG6IvN0M43PIt/view?usp=sharing
 
 6. CONCLUSIONES
 
@@ -75,3 +88,6 @@ Tabla 4.1. Resultados Obtenidos para el circuito de la figura 2.1.
 - El multímetro es una herramienta indispensable para los ingenieros que pertenecemos a la rama de eléctrica, ya que este nos representa si el sentido de la corriente es la debida, obviamente se deben realizar cálculos para saber si es el correcto. El además de darnos la orientación de la corriente también nos da el de tensión, y como punto primordial se debe entender las escalas del mismo.
 
 7. BIBLIOGRAFÍA
+
+Laboratorio de Física, I. I., & Skigin, D. Ley de Ohm y de Kirchhoff.
+Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education
